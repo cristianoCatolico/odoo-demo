@@ -1,0 +1,13 @@
+<odoo>
+    <data>
+        <record id="school_student_view" model="ir.ui.view">
+             <field name="name">school.student.form</field>
+             <field name="model">school.student</field>
+             <field name="arch" type="xml">
+                  <form string="Students">
+                      
+                  </form>
+              </field>
+          </record>
+    </data>
+</odoo>

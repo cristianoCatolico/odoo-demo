@@ -1,0 +1,5 @@
+<odoo>
+    <data>
+        <menuitem name="School" id="school_menu_root" groups="group_school_filter"/> 
+   </data>
+</odoo>
